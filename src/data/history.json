@@ -1,0 +1,35 @@
+[
+    {
+      "role": "AI Research Intern",
+      "organization": "BASF",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": [
+        "Created a program for batch image masking & automated histograms",
+        "Reduced 40+ hours of work to minutes by using gathered data to train the YOLO AI model"
+      ],
+      "imageSrc": "history/basflogo.png"
+    },
+    {
+      "role": "Marketing Intern",
+      "organization": "BASF",
+      "startDate": "May, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": [
+        "Designed an EBIT calculator to automate benchmarking of competitor profitability", 
+        "Built a Power BI model to visualize multi-year data on dashboard for marketing leadership"
+      ],
+      "imageSrc": "history/basflogo.png"
+    },
+    {
+      "role": "IT Consultant",
+      "organization": "Rutgers OIT",
+      "startDate": "May, 2022",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "Mentored Level 1 consultants, ensuring high-quality support for hardware & software issues",
+        "Streamlined IT support processes with knowledge base improvements and troubleshooting tools"
+      ],
+      "imageSrc": "history/rutger.png"
+    }
+  ]

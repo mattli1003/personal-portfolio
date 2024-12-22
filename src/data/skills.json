@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/pythonlogo.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java75.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/clogo.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "JSON",
+      "imageSrc": "skills/jsonlogo.png"
+    },
+    {
+      "title": "Pandas",
+      "imageSrc": "skills/pandasicon.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Overleaf",
+      "imageSrc": "skills/latex.png"
+    }
+  ]

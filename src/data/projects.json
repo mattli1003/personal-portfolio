@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Music Recommender System",
+      "imageSrc": "projects/spotlogo.png",
+      "description": "Provides unlimited music recommendations based on a song, artist, and filtered recommendation category",
+      "skills": ["Python", "Streamlit", "Spotify API"],
+      "source": "https://github.com/mattli1003/music-recommender"
+    },
+    {
+      "title": "Personal Portfolio",
+      "imageSrc": "projects/web.png",
+      "description": "Showcases my web development and design skills through a modern, visually engaging portfolio made with React",
+      "skills": ["React", "HTML", "JavaScript", "Figma"],
+      "source": "https://www.github.com"
+    }
+  ]
